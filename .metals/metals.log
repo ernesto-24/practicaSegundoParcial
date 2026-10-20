@@ -1,0 +1,14 @@
+2026.10.19 21:26:24 INFO  Started: Metals version 1.6.9 in folders '/home/shao/Scripts/Programacion_Funcional/practicas/segundoParcial' for client Visual Studio Code 1.142.0.
+2026.10.19 21:26:24 INFO  Memory monitor started
+2026.10.19 21:26:25 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.19 21:26:25 INFO  Attempting to connect to the build server...
+2026.10.19 21:26:25 INFO  Running BSP server List(/home/shao/.cache/coursier/arc/https/github.com/scala/scala3/releases/download/3.9.0/scala3-3.9.0-x86_64-pc-linux.tar.gz/scala3-3.9.0-x86_64-pc-linux/libexec/scala-cli, --cli-default-scala-version, 3.9.0, --repository, file:///home/shao/.cache/coursier/arc/https/github.com/scala/scala3/releases/download/3.9.0/scala3-3.9.0-x86_64-pc-linux.tar.gz/scala3-3.9.0-x86_64-pc-linux/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /home/shao/Scripts/Programacion_Funcional/practicas/segundoParcial/.scala-build/ide-options-v2.json, --json-launcher-options, /home/shao/Scripts/Programacion_Funcional/practicas/segundoParcial/.scala-build/ide-launcher-options.json, --envs-file, /home/shao/Scripts/Programacion_Funcional/practicas/segundoParcial/.scala-build/ide-envs.json, /home/shao/Scripts/Programacion_Funcional/practicas/segundoParcial/parte1.scala)
+2026.10.19 21:26:26 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /home/shao/Scripts/Programacion_Funcional/practicas/segundoParcial/.metals/bsp.trace.json or /home/shao/.cache/metals/bsp.trace.json
+2026.10.19 21:26:26 INFO  BSP server: Starting compilation server
+2026.10.19 21:26:28 INFO  time: Connected to build server in 2.11s
+2026.10.19 21:26:28 INFO  Connected to Build server: scala v1.16.0
+2026.10.19 21:26:28 INFO  compiling segundoparcial_fd1b2a7546-3d64af82c7 (1 scala source)
+2026.10.19 21:26:29 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2026.10.19 21:26:29 INFO  time: indexed workspace in 1.56s
+2026.10.19 21:26:31 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2026.10.19 21:26:31 INFO  time: compiled segundoParcial_fd1b2a7546-3d64af82c7 in 2.92s
